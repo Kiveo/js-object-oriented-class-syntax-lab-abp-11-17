@@ -30,6 +30,6 @@ class BoardMember {
 }
 // extend boardMember
 
-class ceo extends boardMember {
-  
+class Ceo extends boardMember {
+
 }
