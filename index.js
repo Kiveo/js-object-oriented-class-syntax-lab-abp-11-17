@@ -23,7 +23,7 @@ class BoardMember {
   }
 
   sayHi() {
-    var phrase= "Hi, my name is " + this.name +". I am from " + this.homeState +", and I was trained in "+training+".";
+    var phrase= "Hi, my name is " + this.name +". I am from " + this.homeState +", and I was trained in "+ this.training+".";
     return phrase;
   }
 
