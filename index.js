@@ -28,3 +28,11 @@ class BoardMember {
   }
 
 }
+
+// extend boardMember
+class Ceo extends boardMember {
+  constructor Ceo (){};
+  hireEmployee() {
+    return "Welcome aboard!";
+  }
+}
