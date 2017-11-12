@@ -35,3 +35,5 @@ class Ceo extends boardMember {
     return "Welcome aboard!";
   }
 }
+
+ceo = new Ceo(); 
