@@ -28,3 +28,8 @@ class BoardMember {
   }
 
 }
+// extend boardMember
+
+class ceo extends boardMember {
+  
+}
