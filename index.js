@@ -36,4 +36,4 @@ class Ceo extends boardMember {
   }
 }
 
-ceo = new Ceo(); 
+let ceo = new Ceo(); 
