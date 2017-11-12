@@ -21,9 +21,9 @@ class BoardMember {
   releasePressStatement() {
     return "You will see great things from Scuber.";
   }
-  debugger;
+
   sayHi() {
     return "Hi, my name is "+ name + ". I am from " + homeState + ", and I was trained in " + training + ".";
   }
-
+  debugger;
 }
