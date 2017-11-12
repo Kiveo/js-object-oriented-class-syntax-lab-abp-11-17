@@ -36,4 +36,5 @@ class Ceo extends boardMember {
   }
 }
 
-let ceo = new Ceo(); 
+ceo = new Ceo("Mr. Ceo", "South Carolina", "business");
+polishedBoardMember = new BoardMember("Mr. Polished", "New York", "law");
